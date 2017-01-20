@@ -1,0 +1,10 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+,,,,
+no.note.com,10.10.10.10,no,12,
+t.test.com,1.1.1.1,no,12,Test Case correct
+T2.test.com,2.2.2.2,yes,13,Test Case already patched
+d.test.com,3.3.3.3,no,12,Test Case duplicate hostname
+d.test.com,4.4.4.4,no,12,Test Case duplicate hostname
+x.test.com,5.5.5.5,no,12,Test Case duplicate ip
+x.test.com,5.5.5.5,no,12,Test Case duplicate ip
+abc.test.com,6.6.6.6,no,10,Test Case wrong os
