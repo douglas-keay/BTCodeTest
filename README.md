@@ -10,9 +10,9 @@ Included files
 - RouterCheckTests.java - JUNIT 4 test for program
 - test.csv - csv file used for JUNIT tests
 
-can be run using commands
+Can be run using commands
 ```sh
 $ javac Router.java
 $ javac RouterCheck.java
-$ java RouterCheck \<routerdatacsvfile>.csv
+$ java RouterCheck <routerdatacsvfile>.csv
 ```
